@@ -1,0 +1,15 @@
+C:\Users\Petter\source\repos\logoforprinter\bin\Debug\net6.0\logoforprinter.exe
+C:\Users\Petter\source\repos\logoforprinter\bin\Debug\net6.0\logoforprinter.deps.json
+C:\Users\Petter\source\repos\logoforprinter\bin\Debug\net6.0\logoforprinter.runtimeconfig.json
+C:\Users\Petter\source\repos\logoforprinter\bin\Debug\net6.0\logoforprinter.dll
+C:\Users\Petter\source\repos\logoforprinter\bin\Debug\net6.0\logoforprinter.pdb
+C:\Users\Petter\source\repos\logoforprinter\obj\Debug\net6.0\logoforprinter.csproj.AssemblyReference.cache
+C:\Users\Petter\source\repos\logoforprinter\obj\Debug\net6.0\logoforprinter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Petter\source\repos\logoforprinter\obj\Debug\net6.0\logoforprinter.AssemblyInfoInputs.cache
+C:\Users\Petter\source\repos\logoforprinter\obj\Debug\net6.0\logoforprinter.AssemblyInfo.cs
+C:\Users\Petter\source\repos\logoforprinter\obj\Debug\net6.0\logoforprinter.csproj.CoreCompileInputs.cache
+C:\Users\Petter\source\repos\logoforprinter\obj\Debug\net6.0\logoforprinter.dll
+C:\Users\Petter\source\repos\logoforprinter\obj\Debug\net6.0\refint\logoforprinter.dll
+C:\Users\Petter\source\repos\logoforprinter\obj\Debug\net6.0\logoforprinter.pdb
+C:\Users\Petter\source\repos\logoforprinter\obj\Debug\net6.0\logoforprinter.genruntimeconfig.cache
+C:\Users\Petter\source\repos\logoforprinter\obj\Debug\net6.0\ref\logoforprinter.dll
