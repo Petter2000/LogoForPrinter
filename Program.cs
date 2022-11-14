@@ -31,8 +31,8 @@ namespace logoforprinter
       //-------------------------------------------
       if (startupValues.Count() == 0)
       {
-        startupValues = new List<string> { "t2i", "MyRelease\\text_logo.cpcl", "MyRelease\\image_logo.prim" };
-        //startupValues = new List<string> { "i2t", "MyRelease\\image_logo.prim", "MyRelease\\text_logo.cpcl" };
+        //startupValues = new List<string> { "t2i", "MyRelease\\text_logo.cpcl", "MyRelease\\graphic_logo.prim" };
+        startupValues = new List<string> { "i2t", "MyRelease\\graphic_logo.prim", "MyRelease\\text_logo.cpcl" };
       }
 
       //===============================================================================

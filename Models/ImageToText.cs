@@ -173,8 +173,8 @@ namespace logoforprinter.Models
       var min = Math.Min(value1, value2);
       var max = Math.Max(value1, value2);
 
-      value1 += (WorksheetOffsets.ReducedXBy - WorksheetOffsets.Margin);
-      value2 += (WorksheetOffsets.ReducedXBy - WorksheetOffsets.Margin);
+      min += (WorksheetOffsets.ReducedXBy - WorksheetOffsets.Margin);
+      max += (WorksheetOffsets.ReducedXBy - WorksheetOffsets.Margin);
 
       return (min, max);
     }

@@ -111,21 +111,5 @@ namespace logoforprinter.Models
 
       SetOffsets();
     }
-
-    //================================================
-    // Compares two values. Returns the lowest value.
-    //----------------------------------------------
-    public static int CompareLowestValue(int newValue, int presentValue)
-    {
-      return newValue < presentValue ? newValue : presentValue;
-    }
-
-    //================================================
-    // Compares two values. Returns the highest value.
-    //----------------------------------------------
-    public static int CompareHighestValue(int newValue, int presentValue)
-    {
-      return newValue > presentValue ? newValue : presentValue;
-    }
   }
 }
