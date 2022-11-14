@@ -2,7 +2,8 @@
 
  This program is used for translating the printer coordinates in a .cpcl file
  into a textbased image for the purpose of editing and then update the .cpcl 
- file with the new coordinates. LIMITATION: Only supports horizontal lines.
+ file with the new coordinates. 
+ LIMITATION: Only supports horizontal 'L' lines in the .cpcl file.
 
  PREPARATIONS
  
