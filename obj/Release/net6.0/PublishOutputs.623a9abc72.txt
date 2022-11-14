@@ -1,0 +1,5 @@
+C:\Users\Petter\source\repos\logoforprinter\bin\Release\net6.0\publish\logoforprinter.exe
+C:\Users\Petter\source\repos\logoforprinter\bin\Release\net6.0\publish\logoforprinter.dll
+C:\Users\Petter\source\repos\logoforprinter\bin\Release\net6.0\publish\logoforprinter.deps.json
+C:\Users\Petter\source\repos\logoforprinter\bin\Release\net6.0\publish\logoforprinter.runtimeconfig.json
+C:\Users\Petter\source\repos\logoforprinter\bin\Release\net6.0\publish\logoforprinter.pdb
