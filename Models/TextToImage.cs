@@ -25,7 +25,7 @@ namespace logoforprinter.Models
       //===========================================================
       // Populate worsksheet using coordinates.
       // Returns the list of strings with added filled spaces.
-      // This needs to be done seperatly due to one printede line 
+      // This needs to be done seperatly due to one printed line 
       // is made out of several lines of text.
       //--------------------------------------------------------
       worksheet = PopulateWorksheet(worksheet, lines);
