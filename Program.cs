@@ -1,7 +1,7 @@
 ﻿//===================================================================================
 // Logo for printer
 //
-// The program concists of two main functions:
+// The program consists of two main functions:
 // 1]. Text to image:
 //     Translates the printer coordinates in a .cpcl file into a textbased image.
 // 2]. Image to text.
